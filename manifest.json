@@ -1,0 +1,15 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "description": "Add a context menu item to search for MnemonicDictionary words.",
+   "icons": {
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "manifest_version": 2,
+   "minimum_chrome_version": "6",
+   "name": "Search MnemonicDictionary Right Click",
+   "permissions": [ "contextMenus", "tabs" ],
+   "version": "1.0"
+}
