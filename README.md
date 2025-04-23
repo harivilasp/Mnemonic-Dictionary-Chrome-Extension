@@ -1,4 +1,4 @@
-# Mnemonic Dictionary Chrome Extension
+# Mnemonic Finder Right-Click Word Memory Helper
 
 Easily search for mnemonic meanings of any word using [MnemonicDictionary.com](https://mnemonicdictionary.com) — just right-click on selected text in your browser!
 
